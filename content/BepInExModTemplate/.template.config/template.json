@@ -1,12 +1,12 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "author": "_TemplateAuthorNoSpaces_",
+    "author": "SuperBattleGolfModding",
     "classifications": [
         "BepInEx", "Plugin", "Mod"
     ],
-    "identity": "com.github._TemplateAuthorNoSpaces_.BepInExTemplate",
-    "name": "_GameName_ BepInEx Plugin",
-    "shortName": "_GameNameShortNoSpacesLowercase_mod",
+    "identity": "com.github.SuperBattleGolfModding.BepInExTemplate",
+    "name": "Super Battle Golf BepInEx Plugin",
+    "shortName": "sbgmod",
     "tags": {
         "language": "C#",
         "type": "project"
