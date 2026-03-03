@@ -60,6 +60,8 @@
       Exclude="$(ManagedDir)Mono*.dll;$(ManagedDir)netstandard.dll;$(ManagedDir)System*.dll;$(ManagedDir)mscorlib.dll"
     />
     <Reference Include="@(LocalReferences)" Private="false" />
+    <Reference Include="$(ManagedDir)GameAssembly.dll" Private="false" Publicize="true" />
+    <Reference Include="$(ManagedDir)SharedAssembly.dll" Private="false" Publicize="true" />
 <!--#if (!no-tutorial) -->
     <!--
       Publicize these assemblies so we can access their internal members.
