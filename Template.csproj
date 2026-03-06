@@ -5,7 +5,7 @@
     <!-- Follow the instructions on
     https://learn.microsoft.com/en-us/nuget/create-packages/package-authoring-best-practices -->
     <PackageId>SuperBattleGolfModding.BepInExTemplate</PackageId>
-    <PackageVersion>1.1.0</PackageVersion>
+    <PackageVersion>1.1.1</PackageVersion>
     <Title>Super Battle Golf BepInEx Template</Title>
     <Authors>Robyn, Hamunii</Authors>
     <Description>A BepInEx template for making mods for Super Battle Golf</Description>
